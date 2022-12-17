@@ -1,1 +1,6 @@
-# Do_It_CodingTest
+# 코딩 테스트 준비!!
+
+[Do it! 알고리즘 코딩 테스트 자바 편](http://www.yes24.com/Product/Goods/108571508) 공부 기록
+
+깃으로 조금씩 내가 한것을 확인하자!!
+
