@@ -27,7 +27,7 @@ public class Main {
 
         for (int i = 1; i < sizeNum + 1; i++) {
             for (int j = 1; j < sizeNum + 1; j++) {
-                sumArray[i][j] = sumArray[i][j - 1] + array[i - 1][j - 1];
+                sumArray[i][j]  = sumArray[i][j - 1] + array[i - 1][j - 1];
             }
         }
 
